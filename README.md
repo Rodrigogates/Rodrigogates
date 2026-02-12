@@ -1,9 +1,9 @@
 # 💫 About Me:
 Studying Double degree in Physics and Software Engineering at U-TAD
 
-Founder of RG Technologies
-## RG TECHNOLOGIES
-![RG Technologies](https://github.com/Gates-Technologies)
+Founder of RG Core
+## RG CORE
+![RG Core](https://github.com/Gates-Technologies)
 
 
 ## 🌐 Socials:
