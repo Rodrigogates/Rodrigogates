@@ -3,7 +3,7 @@ Studying Double degree in Physics and Software Engineering at U-TAD
 
 Founder of RG Core
 ## RG CORE
-![RG Core](assets/Logo RG Core.jpeg)(https://github.com/Gates-Technologies)
+![RG Core](assets/Logo-RG-Core.jpeg)(https://github.com/RG-Core)
 
 
 ## 🌐 Socials:
